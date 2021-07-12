@@ -1,0 +1,37 @@
+Milestone,date,type of milestone,notes
+OQS publically announded,20/04/2020,Company,
+OQS founded,07/09/2020,Company,
+Preliminary VTT tender proposal,31/07/2020,Technology,
+MIT Quantify proposal,10/09/2020,Technology,
+Final VTT tender proposal,20/10/2020,Technology,
+Start of impaQT,01/12/2020,Technology,
+APS March Meeting ,15/03/2021,Technology,
+5-qubit demonstrator,01/07/2021,Technology,
+Basic characterization automated,01/12/2021,Technology,
+Demonstrator,01/07/2021,Product,
+Device Development Platform,30/06/2022,Product,
+Algorithm Development Platform,31/12/2022,Product,
+Customized Quantum Computer,30/06/2025,Product,
+Engineering support,01/09/2020,Service,
+Custom control software,01/02/2021,Service,
+Device characterization and certification,31/12/2021,Service,
+VQE on Quantum Inspire,01/06/2021,Technology,
+first commit quantify,21/04/2020,Technology,Project start 
+quantify v0.1.0,20/05/2020,Technology,first prototype
+quantify v0.1.1,25/05/2020,Technology,
+quantify-core v0.2.0,16/10/2020,Technology,core and scheduler split into separate repos 
+quantify-core v0.3.0,17/12/2020,Technology,batched refactor and quality of life improvements
+quantify-core v0.3.1,15/02/2021,Technology,
+quantify-core v0.3.2,17/03/2021,Technology,analysis beta 
+quantify-core v0.4,21/04/2021,Technology,Analysis framework
+quantify-core v1.0,20/05/2021,Technology,First full featured release
+quantify-core v1.1,14/08/2021,Technology,multi-file analysis framework 
+quantify-scheduler v0.1.0,21/10/2020,Technology,first release of quantify-scheduler
+quantify-scheduler v0.2.0,14/01/2021,Technology,Hybrid pulse-gate-level control model 
+quantify-scheduler v0.3.0,01/05/2021,Technology,Hardware backends
+quantify-scheduler v0.4.0,01/06/2021,Technology,Control flow 
+quantify-scheduler v1.0,01/08/2021,Technology,First full featured release of quantify scheduler
+quantify-scheduler v2.0 ,01/01/2022,Technology,
+quantify-experiments v0.1,01/06/2021,Technology,
+quantify-experiments v0.2,01/08/2021,Technology,
+quantify-experiments v1.0,01/01/2022,Technology,

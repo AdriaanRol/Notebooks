@@ -1,0 +1,26 @@
+,Milestone,date,type of milestone
+0,,2020-04-20,Company
+1,,2020-04-20,Product
+2,,2020-04-20,Service
+3,,2020-04-20,Technology
+4,,2030-04-20,Technology
+5,,2030-04-20,Product
+6,OQS publically announded,2020-04-20,Company
+7,OQS founded,2020-09-07,Company
+8,Preliminary VTT tender proposal,2020-07-31,Technology
+9,MIT Quantify proposal,2020-09-10,Technology
+10,First release Quantify,2020-10-16,Technology
+11,Final VTT tender proposal,2020-10-20,Technology
+12,Start of the kilo-qubit project,2020-12-01,Technology
+13,Quantify v1.0,2021-02-01,Technology
+14,APS March Meeting Single-qubit demonstrator,2021-03-15,Technology
+15,5-qubit demonstrator,2021-07-01,Technology
+16,Basic characterization automated,2021-12-01,Technology
+17,Quantify v2.0,2021-12-31,Technology
+18,Demonstrator,2021-07-01,Product
+19,Device Development Platform,2022-06-30,Product
+20,Algorithm Development Platform,2022-12-31,Product
+21,Customized Quantum Computer,2025-06-30,Product
+22,Engineering support,2020-09-01,Service
+23,Custom control software,2021-02-01,Service
+24,Device characterization and certification,2021-12-31,Service
